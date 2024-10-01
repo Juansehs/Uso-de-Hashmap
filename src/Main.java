@@ -15,7 +15,7 @@ public class Main {
         edades.put("Jess",19);
         edades.put("Juram",35);
         edades.put("Juanse",17);
-        edades.put("Thomas",15);
+        edades.put("Thomas",16);
 
 
 // Mostrar en consola el Hash map//
